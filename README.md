@@ -42,7 +42,7 @@
 
   <br><br>
 
-  <a href="https://github.com/eshantharjun9-hub">
+  <a href="https://github.com/eshanthh">
     <img src="https://img.shields.io/badge/EXPLORE%20CODE-020617?style=for-the-badge&logo=github&logoColor=67e8f9&labelColor=020617" alt="Explore code on GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/eshanth-arjun">
@@ -54,7 +54,7 @@
 
   <br>
 
-  <img src="https://komarev.com/ghpvc/?username=eshantharjun9-hub&style=flat-square&color=0ea5e9&label=VISITORS" alt="Profile visitors" />
+  <img src="https://komarev.com/ghpvc/?username=eshanthh&style=flat-square&color=0ea5e9&label=VISITORS" alt="Profile visitors" />
 
   <br><br>
 
@@ -158,14 +158,14 @@ I’m currently:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=eshantharjun9-hub&show_icons=true&hide_border=true&bg_color=0f172a&title_color=60a5fa&icon_color=38bdf8&text_color=cbd5e1&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshantharjun9-hub&layout=compact&hide_border=true&bg_color=0f172a&title_color=60a5fa&text_color=cbd5e1" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=eshanthh&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=60a5fa&amp;icon_color=38bdf8&amp;text_color=cbd5e1&amp;rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshanthh&amp;layout=compact&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=60a5fa&amp;text_color=cbd5e1" alt="Top languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=eshantharjun9-hub&hide_border=true&background=0f172a&ring=2563eb&fire=e11d48&currStreakLabel=60a5fa&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=eshanthh&amp;hide_border=true&amp;background=0f172a&amp;ring=2563eb&amp;fire=e11d48&amp;currStreakLabel=60a5fa&amp;sideLabels=cbd5e1&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;dates=94a3b8" alt="GitHub contribution streak" />
 
 </div>
 
@@ -181,7 +181,7 @@ I’m always open to learning from other developers, contributing to meaningful 
 
 <a href="mailto:eshantharjun9@gmail.com">Get in touch</a> ·
 <a href="https://www.linkedin.com/in/eshanth-arjun">Connect on LinkedIn</a> ·
-<a href="https://github.com/eshantharjun9-hub">Explore my projects</a>
+<a href="https://github.com/eshanthh">Explore my projects</a>
 
 <br><br>
 
